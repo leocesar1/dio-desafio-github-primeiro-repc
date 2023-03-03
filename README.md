@@ -1,5 +1,5 @@
 # Desafio de Projeto sobre Git/GitHub da DIO
-Repositório criado para o Desafio de Projeto.
+Este repositório foi criado para a entrega dos desafios propostos no bootcamp da DIO patrocinado pelo Banco Pan.
 
 
 ## Links Úteis
