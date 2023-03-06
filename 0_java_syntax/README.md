@@ -42,3 +42,9 @@ For methods:
 
 - always use a verb to define the name;
 - for more than two words, uses camel case.
+
+## Variables and Types
+
+1. Class 1
+
+Only an introduction.
