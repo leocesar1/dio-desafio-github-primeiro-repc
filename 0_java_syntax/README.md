@@ -48,3 +48,7 @@ For methods:
 1. Class 1
 
 Only an introduction.
+
+2. Class 2
+
+Instructions to make a new repository.
