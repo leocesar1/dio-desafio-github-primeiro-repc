@@ -3,6 +3,16 @@ public class MyClass {
     public static void main(String[] args){
         // 'final' is a reserved word that makes variable unchangeable  
         // for convention, variables in Caps Lock is also unchangeable
-        final String BR = "Brasil";
+        // final String BR = "Brasil";
+
+        String firstName =  "Leonardo";
+        String lastName = "Marques";
+        System.out.println(makeFullName(firstName, lastName));
+    }
+
+    public static String makeFullName(String firstName, String lastName){
+        // 'final' is a reserved word that makes variable unchangeable  
+        // for convention, variables in Caps Lock is also unchangeable
+        return "The result is: ".concat(firstName.concat(" ").concat(lastName));
     }
 }
