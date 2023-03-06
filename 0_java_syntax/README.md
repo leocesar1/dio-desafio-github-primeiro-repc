@@ -52,3 +52,10 @@ Only an introduction.
 2. Class 2
 
 Instructions to make a new repository.
+
+3. Class 3
+
+Primitive types:
+
+- int, float, boolean, byte, short, long, float, double and char;
+- **tip**: use string for document number and brazilian zipcode;
