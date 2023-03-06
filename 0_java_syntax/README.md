@@ -59,3 +59,7 @@ Primitive types:
 
 - int, float, boolean, byte, short, long, float, double and char;
 - **tip**: use string for document number and brazilian zipcode;
+
+4. Class 4
+
+For constant, we need use the reserved word **final** added to a type. We usually use the name in **capital letters**, for convention.
