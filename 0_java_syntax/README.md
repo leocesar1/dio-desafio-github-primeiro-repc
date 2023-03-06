@@ -26,4 +26,19 @@ Indentation is a good strategy for a clean code.
 
 It's possible to divide the code using packages. Each company has its own convention.
 
-> \_P.S.: Changed the structure to the packages model.
+> _P.S.: Changed the structure to the packages model._
+
+6. Class 6
+
+Java Beans is a conceptual initiative to write code more readable.
+
+For variables:
+
+- the variable name needs to be clear, no abbreviation or no meaningless;
+- always in singular, excepts when referring to an array or a collection;
+- only language.
+
+For methods:
+
+- always use a verb to define the name;
+- for more than two words, uses camel case.
